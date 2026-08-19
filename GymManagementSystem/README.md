@@ -60,7 +60,7 @@ GymManagementSystem/
 │   ├── equipment.dat
 │   └── plans.dat
 │
-└── docs/                # README, Installation Guide, User Manual, Project Report, Viva Q&A
+└── docs/                # README, Installation Guide, User Manual, Project Report
 ```
 
 > **Note on file locations:** the assignment brief lists the `.dat` files at
